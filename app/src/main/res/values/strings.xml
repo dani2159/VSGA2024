@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VSGA2024</string>
+    <string name="judul_main">Masukkan Nama untuk disimpan</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="tampilkan_nama">Tampilkan Nama</string>
+    <string name="hasil">Masukan Nama Untuk Disimpan</string>
+    <string name="simpan">Simpan</string>
 </resources>
